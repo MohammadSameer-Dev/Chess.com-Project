@@ -1,0 +1,1 @@
+# Step 3+: Piece recognition + FEN + Stockfish
